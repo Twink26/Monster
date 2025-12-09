@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex w-full justify-between items-center p-8 relative">
         <p className="text-2xl font-semibold text-lime-500 uppercase">Twinkle Rana</p>
         <img src="/logo.png" className="z-10 h-20 corsor-pointer" alt="" />
-        <a href="" target="_blank">
+        <a href="https://github.com/Twink26/Monster" target="_blank">
           <img src="github-sign.png" className="w-12 h-12" alt="" />
         </a>
       </div>
